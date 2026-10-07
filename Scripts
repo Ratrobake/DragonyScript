@@ -1,0 +1,4 @@
+sayit("") = print("")
+infinite = while True:
+nap() = time.sleep()
+createⁿ = "Create Files"
